@@ -1,0 +1,112 @@
+{
+    "soldiers cost":{
+        "killer drone":50,
+        "rock machine":70,
+        "bomb":40,
+        "missile":50
+    },
+    "soldiers upgrade cost":{
+        "killer drone":{
+            "1":2000,
+            "2":2500
+        },
+        "rock machine":{
+            "1":3000,
+            "2":4000
+        },
+        "bomb":{
+            "1":1000,
+            "2":2500
+        },
+        "missile":{
+            "1":1500,
+            "2":3000
+        }
+    },
+    "soldiers upgrade duration":{
+        "killer drone":{
+            "1":600,
+            "2":900
+        },
+        "rock machine":{
+            "1":600,
+            "2":1200
+        },
+        "bomb":{
+            "1":300,
+            "2":600
+        },
+        "missile":{
+            "1":420,
+            "2":840
+        }
+    },
+    "soldiers upgrade duration in minutes":{
+        "killer drone":{
+            "1":"10min",
+            "2":"15min"
+        },
+        "rock machine":{
+            "1":"10min",
+            "2":"20min"
+        },
+        "bomb":{
+            "1":"5min",
+            "2":"10min"
+        },
+        "missile":{
+            "1":"7min",
+            "2":"14min"
+        }
+    },
+    "soldiers cost type":{
+        "killer drone":"iron",
+        "rock machine":"iron",
+        "bomb":"iron",
+        "missile":"iron"
+    },
+    "weapons damage":{
+        "lazer":{
+            "1":20,
+            "2":50,
+            "3":80
+            },
+        "rock ball":{
+            "1":50,
+            "2":100,
+            "3":150
+            },
+        "bomb":{
+            "1":70,
+            "2":90,
+            "3":110
+            },
+        "missile":{
+            "1":90,
+            "2":115,
+            "3":135
+            }
+    },
+    "soldiers health":{
+        "killer drone":{
+            "1":100,
+            "2":110,
+            "3":120
+        },
+        "rock machine":{
+            "1":150,
+            "2":180,
+            "3":210
+        },
+        "bomb":{
+            "1":null,
+            "2":null,
+            "3":null
+        },
+        "missile":{
+            "1":null,
+            "2":null,
+            "3":null
+        }
+    }
+}

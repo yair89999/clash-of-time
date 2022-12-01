@@ -1,0 +1,341 @@
+{
+    "capacity": [
+        {
+            "capacity": 200,
+            "max capacity": 200
+        }
+    ],
+    "soldiers levels": [
+        {
+            "killer drone": 2,
+            "rock machine": 2,
+            "bomb": 2,
+            "missile": 2
+        }
+    ],
+    "soldier in upgrade": [
+        null
+    ],
+    "army": [
+        {
+            "1": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 720,
+                "pos": [
+                    673.3152602295112,
+                    548.410217199831
+                ],
+                "in camp": "10"
+            },
+            "2": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 309,
+                "pos": [
+                    521.607366537422,
+                    475.7910088009519
+                ],
+                "in camp": "14"
+            },
+            "3": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 1987,
+                "pos": [
+                    521.8440842093539,
+                    495.9567302304174
+                ],
+                "in camp": "14"
+            },
+            "4": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 581,
+                "pos": [
+                    477.15622714227965,
+                    460.6234615796607
+                ],
+                "in camp": "14"
+            },
+            "5": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 848,
+                "pos": [
+                    503.18993164272104,
+                    489.0881326034588
+                ],
+                "in camp": "14"
+            },
+            "6": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 867,
+                "pos": [
+                    482.9622700368219,
+                    495.1763251036805
+                ],
+                "in camp": "14"
+            },
+            "7": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 717,
+                "pos": [
+                    467.19266701560974,
+                    468.94708989365364
+                ],
+                "in camp": "14"
+            },
+            "8": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 259,
+                "pos": [
+                    515.2368549309585,
+                    474.433503679606
+                ],
+                "in camp": "14"
+            },
+            "9": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 668,
+                "pos": [
+                    470.1029437708919,
+                    514.2972345215501
+                ],
+                "in camp": "14"
+            },
+            "10": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 394,
+                "pos": [
+                    502.31316721681213,
+                    506.0112901695618
+                ],
+                "in camp": "14"
+            },
+            "11": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 1822,
+                "pos": [
+                    517.988777123609,
+                    488.8233886664708
+                ],
+                "in camp": "14"
+            },
+            "12": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 318,
+                "pos": [
+                    484.07235323472366,
+                    476.3888916997404
+                ],
+                "in camp": "14"
+            },
+            "13": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 184,
+                "pos": [
+                    490.8955237756601,
+                    485.2007240969349
+                ],
+                "in camp": "14"
+            },
+            "14": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 458,
+                "pos": [
+                    490.53289135093974,
+                    486.7261210620234
+                ],
+                "in camp": "14"
+            },
+            "15": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 439,
+                "pos": [
+                    496.2633296607265,
+                    510.07934986566426
+                ],
+                "in camp": "14"
+            },
+            "16": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100,
+                "angle": 212,
+                "pos": [
+                    461.3526375251495,
+                    470.5824701861285
+                ],
+                "in camp": "14"
+            },
+            "17": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 434,
+                "pos": [
+                    487.96075373471473,
+                    471.40068146665516
+                ],
+                "in camp": "14"
+            },
+            "18": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150,
+                "angle": 419,
+                "pos": [
+                    520.3446580457658,
+                    489.30249477323974
+                ],
+                "in camp": "14"
+            },
+            "19": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150
+            },
+            "20": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150
+            },
+            "21": {
+                "name": "missile",
+                "level": 2,
+                "capacity": 6,
+                "health": null
+            },
+            "22": {
+                "name": "missile",
+                "level": 2,
+                "capacity": 6,
+                "health": null
+            },
+            "23": {
+                "name": "missile",
+                "level": 2,
+                "capacity": 6,
+                "health": null
+            },
+            "24": {
+                "name": "bomb",
+                "level": 2,
+                "capacity": 4,
+                "health": null
+            },
+            "25": {
+                "name": "missile",
+                "level": 2,
+                "capacity": 6,
+                "health": null
+            },
+            "26": {
+                "name": "bomb",
+                "level": 2,
+                "capacity": 4,
+                "health": null
+            },
+            "27": {
+                "name": "bomb",
+                "level": 2,
+                "capacity": 4,
+                "health": null
+            },
+            "28": {
+                "name": "bomb",
+                "level": 2,
+                "capacity": 4,
+                "health": null
+            },
+            "29": {
+                "name": "bomb",
+                "level": 2,
+                "capacity": 4,
+                "health": null
+            },
+            "30": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150
+            },
+            "31": {
+                "name": "rock machine",
+                "level": 2,
+                "capacity": 7,
+                "health": 150
+            },
+            "32": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100
+            },
+            "33": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100
+            },
+            "34": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100
+            },
+            "35": {
+                "name": "killer drone",
+                "level": 2,
+                "capacity": 5,
+                "health": 100
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "data":[
+        {
+            "buildings cost":{
+                "gold mine":500,
+                "gold storage":800,
+
+                "iron mine":500,
+                "iron storage":800,
+
+                "army camp":800,
+                "barracks":800,
+                "the lab":2000,
+
+                "lazer tower":1000
+            },
+            "buildings cash type":{
+                "townhall":"gold",
+                "gold mine":"iron",
+                "gold storage":"iron",
+                "iron mine":"gold",
+                "iron storage":"gold",
+
+                "army camp":"iron",
+                "barracks":"iron",
+                "the lab":"iron",
+
+                "lazer tower":"gold"
+            },
+            "upgrade cost":{
+                "townhall": {
+                    "1":1000,
+                    "2":2000,
+                    "3":5000
+                },
+                "gold mine":{
+                    "1":100,
+                    "2":400,
+                    "3":700
+                },
+                "iron mine":{
+                    "1":100,
+                    "2":400,
+                    "3":700
+                },
+                "gold storage":{
+                    "1":1000,
+                    "2":2000,
+                    "3":3000
+                },
+                "iron storage":{
+                    "1":1000,
+                    "2":2000,
+                    "3":3000
+                },
+    
+                "army camp":{
+                    "1":500,
+                    "2":1000,
+                    "3":2000
+                },
+                "barracks":{
+                    "1":700,
+                    "2":1400,
+                    "3":2800,
+                    "4":4000
+                },
+                "the lab":{
+                    "1":2500,
+                    "2":3500
+                },
+                "lazer tower":{
+                    "1":1000
+                }
+            }
+        }
+    ]
+}

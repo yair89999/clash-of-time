@@ -1,0 +1,44 @@
+{
+    "how it looks":[{
+        "building name":{
+            "description":"description\nhealth\ndamage"
+        },
+        "explain":[
+            "in the description every line is something else, one is what is this building one is the health and...",
+            "damage only if its an attack building"
+        ]
+    }],
+    "buildings info":[{
+        "townhall":{
+            "description":"*Need to add text here"
+        },
+
+
+        "gold mine":{
+            "description":"A building that gives gold"
+        },
+        "gold storage":{
+            "description":"A building that stores gold"
+        },
+        "iron mine":{
+            "description":"A building that gives iron"
+        },
+        "iron storage":{
+            "description":"A building that stores iron"
+        },
+
+
+        "army camp":{
+            "description":"The building that the soldiers stay in\nbefore attacking"
+        },
+        "barracks":{
+            "description":"The building that trains soldiers"
+        },
+        "the lab":{
+            "description":"The building that handles the soldiers upgrade"
+        },
+        "lazer tower":{
+            "description":"A building that shoots lazer at the soldiers"
+        }
+    }]
+}

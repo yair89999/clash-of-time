@@ -1,0 +1,203 @@
+{
+    "buildings": [
+        {
+            "1": {
+                "building name": "townhall",
+                "pos": [
+                    910,
+                    440
+                ],
+                "level": "3",
+                "frame": "1"
+            },
+            "2": {
+                "building name": "gold mine",
+                "pos": [
+                    740,
+                    460
+                ],
+                "level": "2",
+                "money per sec": 2,
+                "money produced": 700,
+                "max money": 700,
+                "time to produce": 1667665209.8308108
+            },
+            "3": {
+                "building name": "iron mine",
+                "pos": [
+                    920,
+                    280
+                ],
+                "level": "3",
+                "money per sec": 4,
+                "money produced": 1000,
+                "max money": 1000,
+                "time to produce": 1667665209.8308108
+            },
+            "4": {
+                "building name": "gold mine",
+                "pos": [
+                    760,
+                    260
+                ],
+                "level": "3",
+                "money per sec": 4,
+                "money produced": 1000,
+                "max money": 1000,
+                "time to produce": 1667665209.8308108
+            },
+            "5": {
+                "building name": "iron mine",
+                "pos": [
+                    1100,
+                    280
+                ],
+                "level": "2",
+                "money per sec": 2,
+                "money produced": 700,
+                "max money": 700,
+                "time to produce": 1667665209.8308108
+            },
+            "6": {
+                "building name": "gold storage",
+                "pos": [
+                    920,
+                    620
+                ],
+                "level": "3"
+            },
+            "7": {
+                "building name": "iron storage",
+                "pos": [
+                    1100,
+                    460
+                ],
+                "level": "3"
+            },
+            "8": {
+                "building name": "lazer tower",
+                "pos": [
+                    760,
+                    660
+                ],
+                "level": "1",
+                "gun angle": 202,
+                "angle change pos needed": 10
+            },
+            "9": {
+                "building name": "barracks",
+                "pos": [
+                    620,
+                    380
+                ],
+                "level": "3"
+            },
+            "10": {
+                "building name": "army camp",
+                "pos": [
+                    620,
+                    520
+                ],
+                "level": "3"
+            },
+            "11": {
+                "building name": "gold mine",
+                "pos": [
+                    1120,
+                    640
+                ],
+                "level": "1",
+                "money per sec": 1,
+                "money produced": 500,
+                "max money": 500,
+                "time to produce": 1667665209.8308108
+            },
+            "12": {
+                "building name": "iron mine",
+                "pos": [
+                    1300,
+                    440
+                ],
+                "level": "2",
+                "money per sec": 2,
+                "money produced": 700,
+                "max money": 700,
+                "time to produce": 1667665209.8308108
+            },
+            "13": {
+                "building name": "lazer tower",
+                "pos": [
+                    1240,
+                    320
+                ],
+                "level": "1",
+                "gun angle": 204,
+                "angle change pos needed": 10
+            },
+            "14": {
+                "building name": "army camp",
+                "pos": [
+                    460,
+                    460
+                ],
+                "level": "3"
+            },
+            "15": {
+                "building name": "barracks",
+                "pos": [
+                    480,
+                    320
+                ],
+                "level": "4"
+            },
+            "16": {
+                "building name": "gold mine",
+                "pos": [
+                    1280,
+                    580
+                ],
+                "level": "3",
+                "money per sec": 4,
+                "money produced": 1000,
+                "max money": 1000,
+                "time to produce": 1667665209.8308108
+            },
+            "17": {
+                "building name": "gold storage",
+                "pos": [
+                    920,
+                    120
+                ],
+                "level": "3"
+            },
+            "18": {
+                "building name": "iron mine",
+                "pos": [
+                    620,
+                    700
+                ],
+                "level": "1",
+                "money per sec": 1,
+                "money produced": 500,
+                "max money": 500,
+                "time to produce": 1667665209.8318064
+            },
+            "19": {
+                "building name": "iron storage",
+                "pos": [
+                    1100,
+                    140
+                ],
+                "level": "3"
+            },
+            "20": {
+                "building name": "the lab",
+                "pos": [
+                    1280,
+                    160
+                ],
+                "level": "1"
+            }
+        }
+    ]
+}

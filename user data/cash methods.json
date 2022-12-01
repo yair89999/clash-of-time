@@ -1,0 +1,12 @@
+{
+    "cash methods": [
+        {
+            "gold": 7000,
+            "max gold": 7000,
+            "iron": 7000,
+            "max iron": 7000,
+            "diamonds": 250,
+            "max diamonds": 250
+        }
+    ]
+}
